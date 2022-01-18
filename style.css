@@ -1,0 +1,12 @@
+body{color:#B80F0A;background-color:#FFFFFF;font-family:geneva,ariel,san-serif}
+header{background-color:#000000;color:#B80F0A;background-image:url(trai_jamal_daron.jpeg);background-position:right;background-repeat:no-repeat;line-height:400%;text-indent:1em}
+nav{background-color:#FFF8D2;font-weight:bold;line-height:200%;text-indent:1em}
+nav a{text-decoration:none}
+h2{color:#000000;font-family:helvetica,"Times New Roman", serif}
+dt{color:#002171}
+student{color:#000000;font-weight:bold}
+h1{margin:0;font-family:geneva,"Times New Roman",serif}
+h3{font-family:helvetica,"Times New Roman",serif;color:#000000}
+ul{list-style-image: url(marker.gif)}
+footer{font-size:75%;font-style:italic;text-align:center;font-family:geneva,"Times New Roman",serif}
+#contact{font-size:90%}
